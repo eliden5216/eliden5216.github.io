@@ -14,7 +14,7 @@ h1 {
 body {
 	background: url("http://eliden5216.github.io/unit_3/images/silver_bean.jpg");
   	background-size: cover;
-  	height: auto;
+  	height: 100%;
 }
 #footer {
 	position: absolute;
