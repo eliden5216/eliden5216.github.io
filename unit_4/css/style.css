@@ -2,11 +2,10 @@
 
 #container {
 	width: 960px;
-	margin: 0% auto;
+	margin: 0;
 }
 h1, h2, h3, #title_two, #slogan, #about_section {
 	font-family: 'Signika', sans-serif;
-	font-weight: 400;
 }
 h1 {
 	float: right;
@@ -16,7 +15,7 @@ h1 {
 #title_two {
 	float: right;
 	font-size: 24px;
-	font-weight: 600;
+	font-weight: 400;
 	font-style: italic;
 }
 #slogan {
