@@ -8,25 +8,24 @@ body {
 	width: 1440px;
 	margin: 0% auto;
 }
-h1, h2, p, #title_two {
+h1, h2, p, #title_two, #slogan, #about_section {
 	font-family: 'Signika', sans-serif;
 	font-weight: 400;
 }
 h1 {
 	float: right;
 	font-size: 34px;
-	font-weight: bold;
+	font-weight: 600;
 }
 #title_two {
 	float: right;
 	font-size: 24px;
-	font-weight: normal;
+	font-weight: 600;
 	font-style: italic;
 
 }
 #slogan {
 	float: left;
-	font-family: 'Signika', sans-serif;
 	font-style: italic;
 	font-size: 28px;
 }
@@ -34,7 +33,6 @@ h1 {
 	width: 500px;
 	float: right;
 	text-align: justify;
-	font-family: 'Signika', sans-serif;
 	letter-spacing: 0.1;
 	word-spacing: 0.5;
 	line-height: 1.5;
