@@ -8,9 +8,13 @@ body {
 	width: 960px;
 	margin: 0% auto;
 }
-h1, h2, p, #title_two, #slogan, #about_section {
+h1, h2, #title_two, #slogan, #about_section {
 	font-family: 'Signika', sans-serif;
 	font-weight: 400;
+}
+p {
+	font-family: 'Signika', sans-serift;
+	font-weight: 200;
 }
 h1 {
 	float: right;
