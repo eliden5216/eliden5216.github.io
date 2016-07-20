@@ -12,10 +12,6 @@ h1, h2, #title_two, #slogan, #about_section {
 	font-family: 'Signika', sans-serif;
 	font-weight: 400;
 }
-p {
-	font-family: 'Signika', sans-serift;
-	font-weight: 300;
-}
 h1 {
 	float: right;
 	font-size: 38px;
@@ -31,6 +27,10 @@ h1 {
 	float: left;
 	font-style: italic;
 	font-size: 26px;
+}
+p {
+	font-family: 'Signika', sans-serift;
+	font-weight: 300;
 }
 #about_section {
 	width: 500px;
