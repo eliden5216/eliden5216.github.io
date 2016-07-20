@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Signika:300,400,600,700);
 
-#container {
+body {
 	width: 960px;
-	margin: 0;
+}
+#container {
+	width: 100%;
+	margin: 0px;
 }
 h1, h2, h3, h4, #title_two, #slogan, #about_section, p {
 	font-family: 'Signika', sans-serif;
