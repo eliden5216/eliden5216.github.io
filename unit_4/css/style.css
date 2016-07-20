@@ -7,13 +7,14 @@
 h1, h2, h3, h4, #title_two, #slogan, #about_section, p {
 	font-family: 'Signika', sans-serif;
 }
-h1 {
+#header {
 	float: right;
+}
+h1 {
 	font-size: 38px;
 	font-weight: 600;
 }
 #title_two {
-	float: right;
 	font-size: 24px;
 	font-weight: 400;
 	font-style: italic;
@@ -22,7 +23,7 @@ h1 {
 	float: left;
 	font-style: italic;
 	font-size: 26px;
-	font-weight: 400;
+	font-weight: 300;
 }
 p {
 	font-weight: 300;
