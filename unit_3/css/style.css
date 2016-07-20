@@ -14,13 +14,21 @@ h1 {
 body {
 	background: url("http://eliden5216.github.io/unit_3/images/silver_bean.jpg");
   	background-size: cover;
+<<<<<<< HEAD
+=======
+  	height: 100%;
+>>>>>>> origin/master
 }
 #footer {
 	position: absolute;
 	padding: 30px;
 	bottom: 0;
 	text-align: right;
+<<<<<<< HEAD
 	color: #ddd;
+=======
+	color: #222;
+>>>>>>> origin/master
 	font-style: italic;
 	font-size: 15px;
 }
