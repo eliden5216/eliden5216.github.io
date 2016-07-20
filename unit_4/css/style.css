@@ -21,6 +21,7 @@ h1 {
 	font-size: 24px;
 	font-weight: 400;
 	font-style: italic;
+	float: right;
 }
 #slogan {
 	float: left;
