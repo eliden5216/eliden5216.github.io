@@ -8,6 +8,7 @@ h1, h2, h3, h4, #title_two, #slogan, #about_section, p {
 	font-family: 'Signika', sans-serif;
 }
 #header {
+	width: 960px;
 	float: right;
 }
 h1 {
