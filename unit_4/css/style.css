@@ -18,7 +18,7 @@ p {
 }
 h1 {
 	float: right;
-	font-size: 34px;
+	font-size: 38px;
 	font-weight: 600;
 }
 #title_two {
@@ -30,7 +30,7 @@ h1 {
 #slogan {
 	float: left;
 	font-style: italic;
-	font-size: 28px;
+	font-size: 26px;
 }
 #about_section {
 	width: 500px;
