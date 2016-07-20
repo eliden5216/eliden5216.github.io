@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Signika:400,600);
+
+}
+body {
+	min-width: 960px;
+}
+#container {
+	width: 1440px;
+	margin: 0% auto;
+}
+h1, h2, p, #title_two {
+	font-family: 'Signika', sans-serif;
+	font-weight: 400;
+}
+h1 {
+	float: right;
+	font-size: 34px;
+	font-weight: bold;
+}
+#title_two {
+	float: right;
+	font-size: 24px;
+	font-weight: normal;
+	font-style: italic;
+
+}
+#slogan {
+	float: left;
+	font-family: 'Signika', sans-serif;
+	font-style: italic;
+	font-size: 28px;
+}
+#about_section {
+	width: 500px;
+	float: right;
+	text-align: justify;
+	font-family: 'Signika', sans-serif;
+	letter-spacing: 0.1;
+	word-spacing: 0.5;
+	line-height: 1.5;
+}
