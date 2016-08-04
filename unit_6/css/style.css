@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Signika:300,400,600,700);
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0;
+	background-color: #fff;
+}
+#slogan, h2, {
+	color: #222;
+}
+a, p.copyright {
+	color: #eee;
+}
+#logo {
+	color: #ddd;
+	width: 300px;
+	padding: 5px;
+	float: right;
+}
+#slogan {
+	border: none;
+	padding: 15px 2px 30px 2px;
+	clear: both;
+	font-family: 'Signika', sans-serif;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: 400;
+}
+#hero_img {
+	max-width: 100%;
+	max-height: 100%;
+	padding: 0;
+	margin: 0;
+}
+#navi_box {
+	float: right;
+	padding: 10px 10px 10px 725px;
+	margin: 0;
+	background-color: #444;
+}
+a {
+	text-decoration: none;
+	font-family: 'Signika', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.titles {
+	padding: 15px;
+}
+h2 {
+	font-family: 'Signika', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+}
+p {
+	font-family: 'Signika', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	text-align: left;
+	line-height: 1.5;
+	margin: 0 0 10px;
+}
+#elijah_image {
+	width: 63%;
+	padding: 10px;
+	float: left;
+}
+#first_article {
+	width: 32%;
+	float: right;
+	padding: 10px;
+}
+#second_article {
+	width: 32%;
+	float: left;
+	padding: 10px;
+}
+#riverisle_image {
+	width: 63%;
+	float: right;
+	padding: 10px;
+}
+#about_image {
+	border: 1px black solid;
+	width: 30%;
+	float: left;
+}
+#about_article {
+	width: 65%;
+	float: right;
+	padding: 10px;
+}
+#social {
+	background-color: #444;
+	padding: 10px;
+	clear: both;
+}
+#facebook, #twitter, #plus, #instagram {
+	width: 3%;
+	padding: 5px;
+}
+#copyright {
+	padding: 10px;
+	float: right;
+	color: #eee;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
