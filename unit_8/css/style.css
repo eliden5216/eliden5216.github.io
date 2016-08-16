@@ -112,3 +112,10 @@ p {
 	clear: both;
 	height: 0;
 }
+
+@media only screen and (max-width: 480px) {
+	article {
+		float: none;
+		width: auto;
+	}
+}
