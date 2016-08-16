@@ -114,8 +114,7 @@ p {
 }
 
 @media screen and (device-width: 320px) and
-(device-height: 568px) and (-webkit-device-pixel-ratio:
-2) {
+(device-height: 568px) and (-webkit-device-pixel-ratio: 2) {
 	article {
 		float: none;
 		width: auto;
