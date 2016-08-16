@@ -45,7 +45,7 @@ a {
 	font-size: 20px;
 }
 .titles {
-	padding: 15px;
+	padding: 2%;
 }
 h2 {
 	font-family: 'Signika', sans-serif;
@@ -58,27 +58,27 @@ p {
 	font-size: 15px;
 	text-align: left;
 	line-height: 1.5;
-	margin: 0 0 10px;
+	margin: 0 0 2%;
 }
 #elijah_image {
 	width: 63%;
-	padding: 10px;
+	padding: 2%;
 	float: left;
 }
 #first_article {
 	width: 32%;
 	float: right;
-	padding: 10px;
+	padding: 2%;
 }
 #second_article {
 	width: 32%;
 	float: left;
-	padding: 10px;
+	padding: 2%;
 }
 #riverisle_image {
 	width: 63%;
 	float: right;
-	padding: 10px;
+	padding: 2%;
 }
 #about_image {
 	border: 1px black solid;
@@ -88,7 +88,7 @@ p {
 #about_article {
 	width: 65%;
 	float: right;
-	padding: 10px;
+	padding: 2%;
 }
 #social {
 	background-color: #444;
@@ -97,10 +97,10 @@ p {
 }
 #facebook, #twitter, #plus, #instagram {
 	width: 3%;
-	padding: 5px;
+	padding: 1%;
 }
 #copyright {
-	padding: 10px;
+	padding: 2%;
 	float: right;
 	color: #eee;
 }
