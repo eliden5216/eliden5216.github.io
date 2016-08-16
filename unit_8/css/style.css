@@ -113,7 +113,9 @@ p {
 	height: 0;
 }
 
-@media only screen and (max-width: 320px) {
+@media screen and (device-width: 320px) and
+(device-height: 568px) and (-webkit-device-pixel-ratio:
+2) {
 	article {
 		float: none;
 		width: auto;
