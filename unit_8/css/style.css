@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Signika:300,400,600,700);
 
 #container {
-	width: 90%;
+	width: 960px;
 	margin: 0 auto;
 	padding: 0;
 	background-color: #fff;
@@ -14,8 +14,8 @@ a, p.copyright {
 }
 #logo {
 	color: #ddd;
-	width: 33%;
-	padding: 1%;
+	width: 300px;
+	padding: 5px;
 	float: right;
 }
 #slogan {
@@ -45,7 +45,7 @@ a {
 	font-size: 20px;
 }
 .titles {
-	padding: 2%;
+	padding: 15px;
 }
 h2 {
 	font-family: 'Signika', sans-serif;
@@ -58,27 +58,27 @@ p {
 	font-size: 15px;
 	text-align: left;
 	line-height: 1.5;
-	margin: 0 0 2%;
+	margin: 0 0 10px;
 }
 #elijah_image {
 	width: 63%;
-	padding: 2%;
+	padding: 10px;
 	float: left;
 }
 #first_article {
 	width: 32%;
 	float: right;
-	padding: 2%;
+	padding: 10px;
 }
 #second_article {
 	width: 32%;
 	float: left;
-	padding: 2%;
+	padding: 10px;
 }
 #riverisle_image {
 	width: 63%;
 	float: right;
-	padding: 2%;
+	padding: 10px;
 }
 #about_image {
 	border: 1px black solid;
@@ -88,7 +88,7 @@ p {
 #about_article {
 	width: 65%;
 	float: right;
-	padding: 2%;
+	padding: 10px;
 }
 #social {
 	background-color: #444;
@@ -97,10 +97,10 @@ p {
 }
 #facebook, #twitter, #plus, #instagram {
 	width: 3%;
-	padding: 1%;
+	padding: 5px;
 }
 #copyright {
-	padding: 2%;
+	padding: 10px;
 	float: right;
 	color: #eee;
 }
@@ -111,12 +111,4 @@ p {
 	content: " ";
 	clear: both;
 	height: 0;
-}
-
-@media screen and (device-width: 414px) and
-(device-height: 568px) and (-webkit-device-pixel-ratio: 2) {
-	article {
-		float: none;
-		width: auto;
-	}
 }
