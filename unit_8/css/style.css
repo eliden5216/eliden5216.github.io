@@ -34,6 +34,7 @@ a, p.copyright {
 }
 #navi_box {
 	float: right;
+	width: 100%;
 	padding: 10px 10px 10px 725px;
 	margin: 0;
 	background-color: #444;
