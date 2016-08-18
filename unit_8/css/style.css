@@ -117,14 +117,11 @@ p {
 	#container {
 		width:100%;
 	}
-	#elijah_image {
+	#elijah_image, #first_article {
 		width: 100%;
 		padding: 0;
 		margin: 0;
 		float: none;
-	}
-	#first_article {
-		width: 100%;
 	}
 }
 
