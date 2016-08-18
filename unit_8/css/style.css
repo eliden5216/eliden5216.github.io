@@ -118,10 +118,10 @@ p {
 		width:100%;
 	}
 	#elijah_image {
-		width: 70%;
+		width: 100%;
 	}
 	#first_article {
-		width: 30%;
+		width: 100%;
 	}
 }
 @media screen and (max-width: 640px) {
