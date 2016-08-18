@@ -129,8 +129,10 @@ hr {
 		display: inline;
 	}
 	hr {
-		width: 50%;
-		padding: 2px;
+		width: 35%;
+	}
+	#facebook, #twitter, #plus, #instagram {
+		width:10%;
 	}
 }
 
