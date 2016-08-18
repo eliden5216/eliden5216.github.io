@@ -137,5 +137,9 @@ hr {
 	#copyright {
 		color: #444;
 	}
+	a {
+		display: block;
+		text-align: center;
+	}
 }
 
