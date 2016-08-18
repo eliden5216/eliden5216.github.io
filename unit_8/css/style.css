@@ -71,6 +71,9 @@ p {
 	float: right;
 	padding: 10px;
 }
+hr {
+	width: 960px;
+}
 #second_article {
 	width: 32%;
 	float: left;
@@ -124,6 +127,9 @@ p {
 		margin: 0;
 		float: none;
 		display: inline;
+	}
+	hr {
+		width: 50%;
 	}
 }
 
