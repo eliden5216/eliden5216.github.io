@@ -130,6 +130,7 @@ hr {
 	}
 	hr {
 		width: 50%;
+		padding: 2px;
 	}
 }
 
