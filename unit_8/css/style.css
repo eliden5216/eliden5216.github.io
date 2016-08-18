@@ -119,15 +119,12 @@ p {
 	}
 	#elijah_image {
 		width: 100%;
+		padding: 0;
+		margin: 0;
+		float: none;
 	}
 	#first_article {
 		width: 100%;
 	}
 }
-@media screen and (max-width: 640px) {
-	#elijah_image, #first_article {
-		width: 100%;
-		margin: 0 auto;
-		float: none;
-	}
-}
+
