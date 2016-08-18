@@ -113,3 +113,14 @@ p {
 	clear: both;
 	height: 0;
 }
+@media screen and (max-width: 959px) {
+	#container {
+		width:100%;
+	}
+	#elijah_image {
+		width: 70%;
+	}
+	#first_article {
+		width: 30%;
+	}
+}
