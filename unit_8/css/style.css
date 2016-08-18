@@ -117,7 +117,8 @@ p {
 	#container {
 		width:100%;
 	}
-	#elijah_image, #first_article {
+	#elijah_image, #first_article, #second_article, #riverisle_image,
+	#about_image, #about_article {
 		width: 100%;
 		padding: 0;
 		margin: 0;
