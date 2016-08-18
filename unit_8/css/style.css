@@ -133,7 +133,9 @@ hr {
 	}
 	#facebook, #twitter, #plus, #instagram {
 		width:10%;
-		padding: 2% 25%; 
+	}
+	#copyright {
+		color: #444;
 	}
 }
 
